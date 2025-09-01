@@ -42,11 +42,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# PyInstaller
-server/dist/
-server/build/
-client/dist/ 
-client/build/
 
 # Логи
 *.log
